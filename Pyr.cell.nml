@@ -1,0 +1,374 @@
+<neuroml xmlns="http://www.neuroml.org/schema/neuroml2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xsi:schemaLocation="http://www.neuroml.org/schema/neuroml2  https://raw.github.com/NeuroML/NeuroML2/master/Schemas/NeuroML2/NeuroML_v2beta.xsd"
+  id="Pyr">
+
+    <include href="Balanced/Leak.channel.nml"></include>
+  <cell id="Pyr">
+      <notes>
+        Neuronal morphology exported in NeuroML v2beta from CVapp (NeuroMorpho.org version)
+        Original file: Pyr.swc </notes>
+
+      <morphology id="morphology_Pyr">
+
+        <segment id="0" name="Seg_0"> <!-- "Cable" is 0-->
+          
+          <proximal x="211" y="242" z="48" diameter="20"/>
+          <distal x="211" y="242" z="48" diameter="20"/>
+        </segment>  
+
+        <segment id="1" name="Seg_1"> <!-- "Cable" is 0-->
+          <parent segment="0"/>
+          <distal x="211" y="235.333" z="48.333" diameter="2"/>
+        </segment>  
+
+        <segment id="2" name="Seg_2"> <!-- "Cable" is 0-->
+          <parent segment="1"/>
+          <distal x="211" y="229" z="49" diameter="2"/>
+        </segment>  
+
+        <segment id="3" name="Seg_3"> <!-- "Cable" is 0-->
+          <parent segment="2"/>
+          <distal x="210" y="223" z="49" diameter="2"/>
+        </segment>  
+
+        <segment id="4" name="Seg_4"> <!-- "Cable" is 0-->
+          <parent segment="3"/>
+          <distal x="209.111" y="216.889" z="49" diameter="2"/>
+        </segment>  
+
+        <segment id="5" name="Seg_5"> <!-- "Cable" is 0-->
+          <parent segment="4"/>
+          <distal x="209.111" y="211.111" z="50" diameter="2"/>
+        </segment>  
+
+        <segment id="6" name="Seg_6"> <!-- "Cable" is 0-->
+          <parent segment="5"/>
+          <distal x="210" y="206" z="51" diameter="2"/>
+        </segment>  
+
+        <segment id="7" name="Seg_7"> <!-- "Cable" is 0-->
+          <parent segment="6"/>
+          <distal x="209" y="200" z="51" diameter="2"/>
+        </segment>  
+
+        <segment id="8" name="Seg_8"> <!-- "Cable" is 0-->
+          <parent segment="7"/>
+          <distal x="209" y="194" z="52" diameter="2"/>
+        </segment>  
+
+        <segment id="9" name="Seg_9"> <!-- "Cable" is 0-->
+          <parent segment="8"/>
+          <distal x="210" y="188" z="52" diameter="2"/>
+        </segment>  
+
+        <segment id="10" name="Seg_10"> <!-- "Cable" is 0-->
+          <parent segment="9"/>
+          <distal x="210" y="181" z="52" diameter="2"/>
+        </segment>  
+
+        <segment id="11" name="Seg_11"> <!-- "Cable" is 0-->
+          <parent segment="10"/>
+          <distal x="210" y="176" z="54" diameter="2"/>
+        </segment>  
+
+        <segment id="12" name="Seg_12"> <!-- "Cable" is 0-->
+          <parent segment="11"/>
+          <distal x="209" y="170" z="54" diameter="2"/>
+        </segment>  
+
+        <segment id="13" name="Seg_13"> <!-- "Cable" is 0-->
+          <parent segment="12"/>
+          <distal x="208" y="164.889" z="54.889" diameter="2"/>
+        </segment>  
+
+        <segment id="14" name="Seg_14"> <!-- "Cable" is 0-->
+          <parent segment="13"/>
+          <distal x="207" y="160" z="56" diameter="2"/>
+        </segment>  
+
+        <segment id="15" name="Seg_15"> <!-- "Cable" is 0-->
+          <parent segment="14"/>
+          <distal x="207" y="154" z="57" diameter="2"/>
+        </segment>  
+
+        <segment id="16" name="Seg_16"> <!-- "Cable" is 0-->
+          <parent segment="15"/>
+          <distal x="207" y="147.111" z="57.111" diameter="2"/>
+        </segment>  
+
+        <segment id="17" name="Seg_17"> <!-- "Cable" is 0-->
+          <parent segment="16"/>
+          <distal x="207" y="141.667" z="58.667" diameter="2"/>
+        </segment>  
+
+        <segment id="18" name="Seg_18"> <!-- "Cable" is 0-->
+          <parent segment="17"/>
+          <distal x="207" y="135.889" z="59.889" diameter="2"/>
+        </segment>  
+
+        <segment id="19" name="Seg_19"> <!-- "Cable" is 0-->
+          <parent segment="18"/>
+          <distal x="207" y="133" z="60" diameter="2"/>
+        </segment>  
+
+        <segment id="20" name="Seg_20"> <!-- "Cable" is 0-->
+          <parent segment="19"/>
+          <distal x="207.333" y="130.444" z="60.111" diameter="2"/>
+        </segment>  
+
+        <segment id="21" name="Seg_21"> <!-- "Cable" is 0-->
+          <parent segment="20"/>
+          <distal x="208.111" y="129" z="60.889" diameter="2"/>
+        </segment>  
+
+        <segment id="22" name="Seg_22"> <!-- "Cable" is 0-->
+          <parent segment="21"/>
+          <distal x="209.222" y="127.889" z="61.667" diameter="2"/>
+        </segment>  
+
+        <segment id="23" name="Seg_23"> <!-- "Cable" is 0-->
+          <parent segment="22"/>
+          <distal x="210" y="127" z="62" diameter="2"/>
+        </segment>  
+
+        <segment id="24" name="Seg_24"> <!-- "Cable" is 0-->
+          <parent segment="23"/>
+          <distal x="212.778" y="124.111" z="63.333" diameter="2"/>
+        </segment>  
+
+        <segment id="25" name="Seg_25"> <!-- "Cable" is 0-->
+          <parent segment="24"/>
+          <distal x="215.778" y="120.778" z="64" diameter="2"/>
+        </segment>  
+
+        <segment id="26" name="Seg_26"> <!-- "Cable" is 0-->
+          <parent segment="25"/>
+          <distal x="219.667" y="118.667" z="65" diameter="2"/>
+        </segment>  
+
+        <segment id="27" name="Seg_27"> <!-- "Cable" is 0-->
+          <parent segment="26"/>
+          <distal x="223.333" y="117.333" z="67" diameter="2"/>
+        </segment>  
+
+        <segment id="28" name="Seg_28"> <!-- "Cable" is 0-->
+          <parent segment="27"/>
+          <distal x="228.667" y="115.667" z="67" diameter="2"/>
+        </segment>  
+
+        <segment id="29" name="Seg_29"> <!-- "Cable" is 0-->
+          <parent segment="28"/>
+          <distal x="233" y="114.889" z="68.889" diameter="2"/>
+        </segment>  
+
+        <segment id="30" name="Seg_30"> <!-- "Cable" is 0-->
+          <parent segment="29"/>
+          <distal x="238.111" y="113.111" z="69" diameter="2"/>
+        </segment>  
+
+        <segment id="31" name="Seg_31"> <!-- "Cable" is 0-->
+          <parent segment="30"/>
+          <distal x="244" y="112" z="69" diameter="2"/>
+        </segment>  
+
+        <segment id="32" name="Seg_32"> <!-- "Cable" is 0-->
+          <parent segment="31"/>
+          <distal x="249" y="111" z="70" diameter="2"/>
+        </segment>  
+
+        <segment id="33" name="Seg_33"> <!-- "Cable" is 0-->
+          <parent segment="32"/>
+          <distal x="254.111" y="109.111" z="70" diameter="2"/>
+        </segment>  
+
+        <segment id="34" name="Seg_34"> <!-- "Cable" is 0-->
+          <parent segment="33"/>
+          <distal x="259" y="107.889" z="70.889" diameter="2"/>
+        </segment>  
+
+        <segment id="35" name="Seg_35"> <!-- "Cable" is 0-->
+          <parent segment="34"/>
+          <distal x="264.111" y="106.111" z="71" diameter="2"/>
+        </segment>  
+
+        <segment id="36" name="Seg_36"> <!-- "Cable" is 0-->
+          <parent segment="35"/>
+          <distal x="269.222" y="104.222" z="71" diameter="2"/>
+        </segment>  
+
+        <segment id="37" name="Seg_37"> <!-- "Cable" is 0-->
+          <parent segment="36"/>
+          <distal x="273.333" y="102.222" z="70.111" diameter="2"/>
+        </segment>  
+
+        <segment id="38" name="Seg_38"> <!-- "Cable" is 0-->
+          <parent segment="37"/>
+          <distal x="277.333" y="99.333" z="70" diameter="2"/>
+        </segment>  
+
+        <segment id="39" name="Seg_39"> <!-- "Cable" is 0-->
+          <parent segment="38"/>
+          <distal x="282.333" y="97.333" z="70" diameter="2"/>
+        </segment>  
+
+        <segment id="40" name="Seg_40"> <!-- "Cable" is 0-->
+          <parent segment="39"/>
+          <distal x="287.333" y="95.333" z="70" diameter="2"/>
+        </segment>  
+
+        <segment id="41" name="Seg_41"> <!-- "Cable" is 0-->
+          <parent segment="40"/>
+          <distal x="292" y="94" z="71" diameter="2"/>
+        </segment>  
+
+        <segment id="42" name="Seg_42"> <!-- "Cable" is 0-->
+          <parent segment="41"/>
+          <distal x="297.111" y="92.111" z="71" diameter="2"/>
+        </segment>  
+
+        <segment id="43" name="Seg_43"> <!-- "Cable" is 0-->
+          <parent segment="42"/>
+          <distal x="302.667" y="91.667" z="72" diameter="2"/>
+        </segment>  
+
+        <segment id="44" name="Seg_44"> <!-- "Cable" is 0-->
+          <parent segment="43"/>
+          <distal x="307.667" y="89.667" z="72" diameter="2"/>
+        </segment>  
+
+        <segment id="45" name="Seg_45"> <!-- "Cable" is 0-->
+          <parent segment="44"/>
+          <distal x="312.778" y="87.778" z="72" diameter="2"/>
+        </segment>  
+
+        <segment id="46" name="Seg_46"> <!-- "Cable" is 0-->
+          <parent segment="45"/>
+          <distal x="318" y="86.889" z="72.889" diameter="2"/>
+        </segment>  
+
+        <segment id="47" name="Seg_47"> <!-- "Cable" is 0-->
+          <parent segment="46"/>
+          <distal x="323.333" y="86" z="73.667" diameter="2"/>
+        </segment>  
+
+        <segment id="48" name="Seg_48"> <!-- "Cable" is 0-->
+          <parent segment="47"/>
+          <distal x="329.333" y="85.333" z="74" diameter="2"/>
+        </segment>  
+
+        <segment id="49" name="Seg_49"> <!-- "Cable" is 0-->
+          <parent segment="48"/>
+          <distal x="334.667" y="83.667" z="74" diameter="2"/>
+        </segment>  
+
+        <segment id="50" name="Seg_50"> <!-- "Cable" is 0-->
+          <parent segment="49"/>
+          <distal x="340.111" y="82.111" z="74" diameter="2"/>
+        </segment>  
+
+        <segment id="51" name="Seg_51"> <!-- "Cable" is 0-->
+          <parent segment="50"/>
+          <distal x="346" y="81" z="74" diameter="2"/>
+        </segment>  
+
+        <segment id="52" name="Seg_52"> <!-- "Cable" is 0-->
+          <parent segment="51"/>
+          <distal x="353" y="81" z="74" diameter="2"/>
+        </segment>  
+
+        <segment id="53" name="Seg_53"> <!-- "Cable" is 0-->
+          <parent segment="52"/>
+          <distal x="355" y="81" z="74" diameter="2"/>
+        </segment>  
+
+        <segmentGroup id="Cable_0" >
+          <member segment="0"/>
+          <member segment="1"/>
+          <member segment="2"/>
+          <member segment="3"/>
+          <member segment="4"/>
+          <member segment="5"/>
+          <member segment="6"/>
+          <member segment="7"/>
+          <member segment="8"/>
+          <member segment="9"/>
+          <member segment="10"/>
+          <member segment="11"/>
+          <member segment="12"/>
+          <member segment="13"/>
+          <member segment="14"/>
+          <member segment="15"/>
+          <member segment="16"/>
+          <member segment="17"/>
+          <member segment="18"/>
+          <member segment="19"/>
+          <member segment="20"/>
+          <member segment="21"/>
+          <member segment="22"/>
+          <member segment="23"/>
+          <member segment="24"/>
+          <member segment="25"/>
+          <member segment="26"/>
+          <member segment="27"/>
+          <member segment="28"/>
+          <member segment="29"/>
+          <member segment="30"/>
+          <member segment="31"/>
+          <member segment="32"/>
+          <member segment="33"/>
+          <member segment="34"/>
+          <member segment="35"/>
+          <member segment="36"/>
+          <member segment="37"/>
+          <member segment="38"/>
+          <member segment="39"/>
+          <member segment="40"/>
+          <member segment="41"/>
+          <member segment="42"/>
+          <member segment="43"/>
+          <member segment="44"/>
+          <member segment="45"/>
+          <member segment="46"/>
+          <member segment="47"/>
+          <member segment="48"/>
+          <member segment="49"/>
+          <member segment="50"/>
+          <member segment="51"/>
+          <member segment="52"/>
+          <member segment="53"/>
+        </segmentGroup>
+
+        <segmentGroup id="dendrite_group" >
+          <include segmentGroup="Cable_0"/>
+        </segmentGroup>
+
+        <segmentGroup id="color_green" >
+          <include segmentGroup="Cable_0"/>
+        </segmentGroup>
+
+        <segmentGroup id="basal_dendrite" >
+          <include segmentGroup="Cable_0"/>
+        </segmentGroup>
+
+        <segmentGroup id="all" >
+          <include segmentGroup="Cable_0"/>
+        </segmentGroup>
+
+      </morphology>
+
+        <biophysicalProperties id="biophys">
+            <membraneProperties>
+                <channelDensity id="LeakConductance_all" ionChannel="LeakConductance" condDensity="0.0626104535156 mS_per_cm2" erev="-66.7122920279 mV" ion="non_specific"/>
+             
+                <spikeThresh value="0 mV"/>
+                <specificCapacitance value="2.1210324624 uF_per_cm2"/>
+                <initMembPotential value="-80.0 mV"/>
+            </membraneProperties>
+            <intracellularProperties>
+                <resistivity value="100 ohm_cm"/>
+            </intracellularProperties>
+        </biophysicalProperties>
+
+  </cell>
+</neuroml>
